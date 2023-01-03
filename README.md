@@ -14,6 +14,6 @@ I intend on exploring the following generative models:
 - Pix2Pix ❌
 - WGAN ❌
 
-Key:
+Key: <br>
 ❌ => in progress/not started <br>
 ✅ => completed and tested
