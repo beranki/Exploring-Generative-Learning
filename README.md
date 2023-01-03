@@ -13,3 +13,7 @@ I intend on exploring the following generative models:
 - GauGAN ❌
 - Pix2Pix ❌
 - WGAN ❌
+
+Key:
+❌ => in progress/not started
+✅ => completed and tested
