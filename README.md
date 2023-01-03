@@ -1,5 +1,5 @@
 # Exploring-Generative-Learning
-Intensive Exploration of Generative Learning through different frameworks/models
+The following is an intensive exploration of Generative Learning through different frameworks/models.
 
 I intend on exploring the following generative models:
 - SRGAN ❌
@@ -16,4 +16,7 @@ I intend on exploring the following generative models:
 
 Key: <br>
 ❌ => in progress/not started <br>
-✅ => completed and tested
+✅ => completed and tested <br>
+<br>
+Each program will have a detailed explanation of the workings of the GAN and what differs it from other styles of GANs. (pros, cons, model architecture, etc.)
+This is meant to be a documentation of my self exploration of generative learning, and is meant to showcase my capability of understanding with these models.
