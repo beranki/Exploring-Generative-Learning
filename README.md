@@ -15,5 +15,5 @@ I intend on exploring the following generative models:
 - WGAN ❌
 
 Key:
-❌ => in progress/not started
+❌ => in progress/not started <br>
 ✅ => completed and tested
