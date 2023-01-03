@@ -3,8 +3,8 @@ Intensive Exploration of Generative Learning through different frameworks/models
 
 I intend on exploring the following generative models:
 - SRGAN
-- CycleGAN
-- DCGAN
+- CycleGAN ✔️
+- DCGAN ✔️
 - StarGAN
 - GSN
 - Variational Autoencoders
