@@ -18,5 +18,6 @@ Key: <br>
 ❌ => in progress/not started <br>
 ✅ => completed and tested <br>
 <br>
-Each program will have a detailed explanation of the workings of the GAN and what differs it from other styles of GANs. (pros, cons, model architecture, etc.)
-This is meant to be a documentation of my self exploration of generative learning, and is meant to showcase my capability of understanding with these models.
+
+Each program will have a detailed explanation of the workings of the GAN and what differs it from other styles of GANs. (pros, cons, model architecture, etc.) <br>
+- This is meant to be a documentation of my self exploration of generative learning, and is meant to showcase my capability of understanding with these models. 
