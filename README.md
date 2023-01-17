@@ -4,6 +4,7 @@ The following is an intensive exploration of Generative Learning through differe
 I intend on exploring the following generative models:
 - SRGAN ❌
 - CycleGAN ✅
+- BiCycleGAN ❌
 - DCGAN ✅
 - StarGAN ❌
 - GSN ❌
